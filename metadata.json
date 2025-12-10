@@ -1,0 +1,7 @@
+{
+  "name": "FuturePath AI",
+  "description": "An advanced career and skill mentor using Gemini 3 Pro to analyze profiles, recommend career paths, and generate personalized learning plans.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
