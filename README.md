@@ -1,71 +1,128 @@
-# futurepath-ai
-An AI career guidance tool that reads your resume, finds your skill gaps, and builds a personalized roadmap for your future.
+# 🚀 FuturePath AI
+An AI career guidance tool that reads your resume, identifies your skill gaps, and builds a personalized roadmap for your future.
 
-AI-Driven Career Intelligence & Skill Gap Analysis Platform
-Live Demo: https://ai.studio/apps/drive/1b08mDRAp6qYB1g5wbHT448Q4ywR-lEZ
-_
-FuturePath AI is a next-generation career intelligence system powered by Gemini 3 Pro Preview.
-It provides personalized, data-driven career recommendations by analyzing a user’s resume, skills, strengths, and interests.
-Unlike traditional tools that offer generic guidance, FuturePath AI delivers a tailored 30-day learning roadmap, skill gap breakdown, and ATS-optimized resume improvements, enabling learners to become job-ready with clarity and confidence.
+---
 
-🎯 Key Capabilities
-🔍 Resume Understanding (Text + Image)
-Upload a resume in text or image format.
-The system extracts skills, experience, education, and strengths with advanced vision + reasoning capabilities.
-🎓 Personalized Career Path Recommendations
-Identifies 3–4 roles best aligned with the user’s background and career aspirations.
-Each recommendation includes structured reasoning and required skill categories.
-🧠 Skill Gap Analysis
-Provides a clear breakdown of skills the user already possesses and those they need to acquire, categorized into:
-High Priority
-Medium Priority
-Low Priority
-🗺️ 30-Day Learning Plan
-A comprehensive roadmap designed to close critical skill gaps through:
-Weekly objectives
-Daily actionable tasks
-Curated free learning resources
-✍️ Resume Enhancement Module
-Transforms weak bullet points into strong, professional, ATS-friendly statements with measurable impact.
-💬 AI Mentor Chat
-An interactive assistant for clarifying concepts, exploring roles, and refining learning strategies.
-🧪 Portfolio Project Recommendations
-Delivers practical project ideas tailored to the user’s target career path and learning gaps.
+## 🌐 Live Demo
+👉 https://ai.studio/apps/drive/1b08mDRAp6qYB1g5wbHT448Q4ywR-lEZ_
 
-🧠 Powered by Gemini 3 Pro Preview
-FuturePath AI leverages Gemini’s advanced capabilities:
-Vision + OCR: Reads resume images accurately
-Long-context reasoning: Understands user background deeply
-Skill inference: Maps user skills to industry requirements
-Structured planning: Generates coherent learning roadmaps
-This allows the system to function like a personal AI career mentor scalable to millions of learners.
+---
 
-🔧 Tech Stack
-Gemini 3 Pro Preview
-Google AI Studio — App Builder
-Gemini Vision for Image Analysis
-Cloud-based deployment with zero setup
+## 🧠 Overview
+**FuturePath AI** is a next-generation career intelligence system powered by **Gemini 3 Pro Preview**.  
+It analyzes your resume, skills, strengths, and interests to provide personalized, data-driven career recommendations.
 
-🚀 How to Use
-Open the live application linked above.
-Upload your resume (PDF, text, or screenshot).
-Generate your personalized career path.
-Explore your skill gaps and actionable roadmap.
-Improve your resume and chat with the AI mentor.
-Start building suggested portfolio projects.
+Unlike traditional tools that offer generic suggestions, FuturePath AI delivers:
+- A customized **30-day learning roadmap**
+- A deep **skill gap analysis**
+- **ATS-optimized resume enhancements**
+- Clear, role-specific career guidance
 
-📌 Future Roadmap
-User authentication (email / phone login)
-Saved dashboards and progress tracking
-Multi-role presets (SDE, Analyst, ML Engineer, Cloud, etc.)
-Exportable PDF reports
-Multi-language support
-Cross-device synchronization
+Helping learners become **job-ready with clarity and confidence**.
 
-📄 License
-Open-source under the MIT License.
-Use, modify, and distribute freely with attribution.
+---
 
-🤝 Contributions
-Contributions and feature suggestions are welcome.
-Open an issue or submit a pull request to help improve FuturePath AI.
+# 🎯 Key Capabilities
+
+### 🔍 Resume Understanding (Text + Image)
+- Upload your resume as text, PDF, or image  
+- AI extracts skills, education, and experience using vision + reasoning
+
+---
+
+### 🎓 Personalized Career Path Recommendations
+- Identifies **3–4 best-fit career roles**
+- Provides reasoning for each role
+- Lists key required skill categories
+
+---
+
+### 🧠 Skill Gap Analysis
+Categorizes missing skills into:
+- **High Priority**
+- **Medium Priority**
+- **Low Priority**
+
+---
+
+### 🗺️ 30-Day Learning Plan
+A structured plan with:
+- Weekly objectives  
+- Daily tasks  
+- Free learning resources (YouTube, docs, courses)
+
+---
+
+### ✍️ Resume Enhancement Module
+- Rewrites weak resume bullets  
+- Produces strong, professional, ATS-friendly statements  
+
+---
+
+### 💬 AI Mentor Chat
+An interactive chat assistant for:
+- Career clarity  
+- Study guidance  
+- Role exploration  
+- Learning strategy support  
+
+---
+
+### 🧪 Portfolio Project Recommendations
+- Suggests practical project ideas  
+- Aligned with your target career role  
+- Builds hands-on experience  
+
+---
+
+# 🧠 Powered by Gemini 3 Pro Preview
+FuturePath AI leverages Gemini's advanced capabilities:
+- **Vision + OCR** for resume image parsing  
+- **Long-context reasoning** for deep user understanding  
+- **Skill inference** to match user skills to industry roles  
+- **Structured planning** for learning roadmaps  
+
+This enables the system to function like a **personal AI career mentor**, scalable to millions.
+
+---
+
+# 🔧 Tech Stack
+- **Gemini 3 Pro Preview**
+- **Google AI Studio — App Builder**
+- **Gemini Vision for Image Processing**
+- Cloud-based deployment
+
+---
+
+# 🚀 How to Use
+1. Open the live application  
+2. Upload your resume (PDF, image, or text)  
+3. Generate your personalized career path  
+4. Review your skill gaps  
+5. View your 30-day roadmap  
+6. Improve your resume  
+7. Build recommended portfolio projects  
+8. Chat with the AI mentor anytime  
+
+---
+
+# 📌 Future Roadmap
+- User authentication (email/phone)  
+- Saved dashboards and profiles  
+- Skill progress tracking  
+- Multi-role presets (SDE, Analyst, ML Engineer, Cloud)  
+- Exportable PDF career reports  
+- Multi-language support  
+- Cross-device sync  
+
+---
+
+# 📄 License
+Open-source under the **MIT License**.  
+You may use, modify, and distribute the project with attribution.
+
+---
+
+# 🤝 Contributions
+Contributions and suggestions are welcome!  
+Feel free to open an issue or submit a pull request.
